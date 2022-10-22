@@ -299,19 +299,3 @@ And finally, the cherry on the cake, let me tell you about network address trans
 
 ##### Save dumps of virtual machine images
 **p.s. Do not upload dumps to git under any circumstances!**
-
-## Chapter IV
-
-`-` Thank you so much for the help!
-
-`-` You’re welcome! It was good for me to remember the basics of administration too. By the way, I’ve decided to go into DevOps.
-
-`-` Wow! Have you found a job yet?
-
-`-` Yes, but I’ll have to move. So, next time you'll have to learn everything on your own.
-
-`-` Sooner or later I'd have to start anyway, so maybe it's for the best. Stay in touch to tell me about how you’re getting on!
-
-`-` You too!
-
-\> *You talk about other things for a while, listening to some nice music and finishing your drinks, and then you say goodbye...*.
